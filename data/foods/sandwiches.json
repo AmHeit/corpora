@@ -1,6 +1,11 @@
 {
   "description": "A list of sandwiches.",
   "sandwiches": [
+     {
+      "description": "Cold applesauce served on store-bought sliced bread",
+      "origin": "United States",
+      "name": "Poor Man's Apple Pie"
+    },
     {
       "description": "Generally served hot, and often eaten with ketchup or brown sauce",
       "origin": "United Kingdom",
